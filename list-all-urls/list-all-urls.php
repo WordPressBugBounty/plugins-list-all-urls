@@ -3,7 +3,7 @@
  * Plugin Name: List all URLs
  * Plugin URI: https://jonathanbossenger.com
  * Description: Creates a page in the admin panel under Settings > List All URLs that outputs an ordered list of all of the website's published URLs.
- * Version: 1.0.1
+ * Version: 1.0.2
  * Author: Jonathan Bossenger
  * Author URI: https://jonathanbossenger.com
  * License: GPL v2 or higher

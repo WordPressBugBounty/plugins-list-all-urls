@@ -1,9 +1,9 @@
 === List all URLs ===
-Contributors: psykro, evster
+Contributors: psykro, evster, fatihkadirakin
 Tags: URLs
 Requires at least: 3.0.1
 Tested up to: 6.8.1
-Stable Tag: 1.0.1
+Stable Tag: 1.0.2
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -33,10 +33,17 @@ If you spot a bug or have an idea of how I can improve my code please let me kno
 
 Post a question in the support forum for this plugin and I will try to answer as soon as possible.
 
+= Where can I log issues? =
+
+Development of this plugin now takes place in this [GitHub repository](https://github.com/jonathanbossenger/list-all-urls "GitHub"), so feel free to log issues there
+
 == Screenshots ==
 The List All URLs admin page
 
 == Changelog ==
+
+= 1.0.2 =
+Add contributors
 
 = 1.0.1 =
 Removal of Feature API integration
